@@ -3,3 +3,4 @@
 * live in Northern CA
 * favorite code: python and java
 * likes to travel and play sports
+* my favorite sport is golf
