@@ -9,6 +9,6 @@ String
 
 ## Example
 ```python
-say_hi("Alex", 32) == "Hi. My name is Alex and I'm 32 years old"
-say_hi("Frank", 68) == "Hi. My name is Frank and I'm 68 years old"
+say_gday("Alex", 32) == "Gday. My name is Alex and I'm 32 years old"
+say_gday("Frank", 68) == "Gday. My name is Frank and I'm 68 years old"
 ```
