@@ -4,7 +4,7 @@
 * favorite code: python and java
 * likes to travel and play sports
 * my favorite sport is golf
-**Some programming challange ideas:
+## Some programming challange ideas:
   - the median of a array and a string
   - seeing how many numbers in a string are prime, separated by spaces
   - seeing how many times a word appears in a string
