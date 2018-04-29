@@ -1,6 +1,6 @@
 def say_gday(name, age):
     """
-        Hi!
+        Gday!
     """
     # your code here
     return "Gday. My name is Alex and I'm 32 years old"
